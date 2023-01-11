@@ -1,0 +1,41 @@
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.text{
+    color: #F1F6FB;
+    font-size: 42px;
+}
+
+.line{
+    height: 4px;
+    width: 180px;
+    background-color: #F1F6FB;
+}
+
+.orText{
+    margin: 10px;
+    font-size: 22px;
+    color: #F1F6FB;
+}
+
+.or{
+    height: 50px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.registerDiv{
+    height: 55px;
+    width: 4px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.registerIcon{
+    width: 34px;
+    height: 34.64px;
+}
