@@ -19,14 +19,22 @@ function LogInPage(){
                     <div className="line"></div>
                 </div>
                 <Option>
-                    <img src="./google.png" className="registerIcon" />
+                    <div className="img">
+                        <img src="./google.png" className="registerIcon" />
+                    </div>
                     <div className="registerDiv"></div>
-                    <p>connect to Google</p>
+                    <div className="txt">
+                        <p>connect to Google</p>    
+                    </div>
                 </Option>
                 <Option>
-                    <img src="./facebook.png" className="registerIcon" />
+                    <div className="img">
+                        <img src="./facebook.png" className="registerIcon" />
+                    </div>
                     <div className="registerDiv"></div>
-                    <p>connect with facebook</p>
+                    <div className="txt">
+                        <p>connect with facebook</p>
+                    </div>
                 </Option>
             </MainDiv>
         </div>  

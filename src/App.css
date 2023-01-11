@@ -29,6 +29,7 @@
 }
 
 .registerDiv{
+    margin-left: 50px;
     height: 55px;
     width: 4px;
     border-radius: 5px;
@@ -38,4 +39,16 @@
 .registerIcon{
     width: 34px;
     height: 34.64px;
+}
+
+.img{
+    margin-left: 20px;
+    width: 34px;
+    height: 34.64px;
+}
+
+.txt{
+    margin-left: 70px;
+    height: 70px;
+    width: 300px;
 }

@@ -6,7 +6,6 @@ import { color, styled as styledShit} from '@mui/system';
     display: flex;
     align-items: center;
     justify-content: center;
-    justify-content: space-around;
     height: 70px;
     width: 400px;
     margin-top: 10px;
