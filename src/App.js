@@ -1,7 +1,7 @@
 import "./App.css"
 import QuestionPage from "./questionPage";
 import LogInPage from "./LogIn";
-import { Routes, Route } from "react-router-dom"
+import {Link, Routes, Route } from "react-router-dom"
 
 
 function App() {
@@ -16,3 +16,5 @@ function App() {
 }
 
 export default App;
+
+

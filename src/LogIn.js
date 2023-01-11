@@ -1,6 +1,7 @@
 import { MainDiv } from "./MainDivs";
 import { Option } from "./option";
 import "./App.css"
+import {Link} from "react-router-dom"
 
 function LogInPage(){
     return(
@@ -12,7 +13,7 @@ function LogInPage(){
                 <p className="text">Log In</p>
                 <Option>Email</Option>
                 <Option>Password</Option>
-                <Option type = "yellow">Submit</Option>
+                <Option type = "yellow"><Link to="/quiz">Login</Link></Option>
                 <div className="or">
                     <div className="line"></div>
                         <p className="orText">Or</p>
